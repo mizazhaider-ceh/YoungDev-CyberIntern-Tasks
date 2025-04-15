@@ -33,6 +33,30 @@ This PDF report includes:
 🔗 [Click here to Download/View the PDF](./Basic-Tasks-YoungDev-Intern.pdf)
 
 ====================================================
+✅ Completed Intermediate Tasks Overview:
+In addition to the basic tasks, I successfully completed several Intermediate Cybersecurity Tasks, further expanding my skills and understanding of real-world cybersecurity challenges:
+
+🔐 Vulnerability Scanning with Nmap
+🔐 Two-Factor Authentication (2FA) Setup
+🔐 Network Traffic Monitoring with Wireshark
+
+These tasks provided me with deeper insights into vulnerability management, multi-layer security practices, and network analysis. The experience significantly enhanced my ability to defend systems against various attacks.
+
+📁 Intermediate Tasks
+📄 Document Name: Internship-Intermediate-Tasks-Report.pdf
+📅 Completion Dates: April 16th – 18th, 2025
+
+This PDF report includes:
+
+✅ Vulnerability Scan Task – Scanning for vulnerabilities and interpreting results
+✅ Two-Factor Authentication Task – Implementing 2FA for enhanced security
+✅ Network Traffic Monitoring Task – Using Wireshark to analyze and interpret network packets
+
+📌 All tasks have been meticulously documented with detailed descriptions and screenshots to ensure clarity and easy reference.
+
+🔗 Click here to Download/View the PDF
+
+====================================================
 
 ## 📝 Key Takeaways:
 
