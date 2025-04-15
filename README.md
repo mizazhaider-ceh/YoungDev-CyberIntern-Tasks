@@ -72,5 +72,5 @@ A sincere thank you to **YoungDevInterns** for providing this incredible learnin
 More learning, more labs, and deeper security exploration ahead! 💻⚔️
 
 **Let’s Connect:**
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-📧 your.email@example.com
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-izaz-haider-091639314/)
+📧[mizazhaiderceh@gmail.com](mailto:mizazhaiderceh@gmail.com)
